@@ -2,8 +2,8 @@
 Changelog for package ackermann_drive_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2017-11-06)
+------------------
 * Merge pull request `#3 <https://github.com/imoverxyz/ackermann_drive_teleop/issues/3>`_ from antoniocoratelli/patch-1
   Fix word
 * Fix word
