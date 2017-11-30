@@ -2,8 +2,8 @@
 Changelog for package ackermann_drive_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2017-11-30)
+------------------
 * Merge pull request #2 from imoverxyz/devel
   20171130 ackermann_drive_teleop promotion to testing
 * Merge pull request #1 from imoverxyz/task_ImoverBaseRefactor_dev

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ackermann_drive_teleop</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The ackermann_drive_teleop package</description>
 
   <maintainer email="prasanna@imover.xyz">Prasanna Kannappan</maintainer>
